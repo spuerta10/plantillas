@@ -1,5 +1,5 @@
 # Contextualizacion
-Este repositorio contiene la estructura usada para el guardado de la informacion adquirida en [cursos]().
+Este repositorio contiene la estructura usada para el guardado de la informacion adquirida en [cursos](https://github.com/spuerta10/plantillas/tree/cursos).
 <br></br>
 
 ## El problema
