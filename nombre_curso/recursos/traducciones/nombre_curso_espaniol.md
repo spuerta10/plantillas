@@ -1,7 +1,7 @@
 <p align = "center">
-<font size ="4.7px"><a href = "link version en español">Español</a>
+<font size ="4.7px"><a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/recursos/traducciones/nombre_curso_espaniol.md">Español</a>
                                                                               |
-<a href = "link version en ingles">English</a></font> 
+<a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
 # Nombre del curso
