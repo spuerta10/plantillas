@@ -1,49 +1,25 @@
 <p align = "center">
-<font size ="4.7px"><a href = "spanish version link">Español</a>
+<font size ="4.7px"><a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/recursos/traducciones/nombre_curso_espaniol.md">Español</a>
                                                                               |
-<a href = "english version link">English</a></font> 
+<a href = "https://github.com/spuerta10/plantillas/blob/cursos/nombre_curso/README.md">English</a></font> 
 </p>
 
-# The context
-Brief summary explaining the context of the project
-¿Which organization is entangled with the proyect?
+# Course name
+Brief course description.
 <br></br>
 
-## The problem
-Problems description.
-What is the problem that the project will try to solve?
-Which is the problem that the project solves?
+## Habilities
+- Hability 1
+- Hability 2
+- Hability n
 <br></br>
 
-![Image n]("Link of image n")
-
-*Figure n.* Brief description of above's image. 
-
-## The solution
-Which was the approach taken?
-Which solution was implemented to solve the problem?
-What's the basis of the solution?
-
-![Image n]("Link of image n")
-
-*Figure n.* Brief description of above's image. 
-
-## The results
-Results of the project
-Does the project manage to fulfill the objectives?
-Does the project manage to take care of the problem described before?
-
-![Image n]("Link of image n")  
-
-*Figure n.* Brief description of above's image. 
-
+## Certificate
+The following certifies the course completion.   
 <br></br>
+![]()   
 
-Where can be found the code developed: [where is the code](link of where is te code)
-
+*Figure 1*. Course completion certificate.
 <br></br>
 <br></br>
-
-<p align="center">
-<img src="Link of the image with organizational logos">
-</p>
+<br></br>
