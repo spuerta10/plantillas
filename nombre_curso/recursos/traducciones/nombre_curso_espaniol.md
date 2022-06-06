@@ -4,43 +4,22 @@
 <a href = "link version en ingles">English</a></font> 
 </p>
 
-# Contextualizacion
-Breve resumen del contexto del proyecto
-¿A que organizacion pertence?
+# Nombre del curso
+Breve descripcion del curso
 <br></br>
 
-## El problema
-Descripcion del problema.
-¿Cual es el problema que el proyecto pretende atacar?
-¿Cual es el problema que el proyecto resuelve?
+## Habilidades
+- Habilidad 1
+- Habilidad 2
+- Habilidad n
 <br></br>
 
-![Imagen n]("Link de la imagen")
-
-*Figura n.* Corta descripcion de la imagen. 
-
-## La solucion
-Cual fue la solucion planteada
-¿En que consiste la solucion?
-
-![Imagen n]("Link de la imagen")
-
-*Figura n.* Corta descripcion de la imagen.
-
-## Los resultados
-Resultados del proyecto ¿El proyecto logra satisfacer las necesidades planteadas? ¿El proyecto logra resolver el problema planteado?.
-
-![Imagen n]("Link de la imagen n")  
-
-*Figura n.* Corta descripcion de la imagen.
-
+## Certificacion
+El siguiente es el certificado de completitud del curso   
 <br></br>
+![]()   
 
-Donde se puede encontrar el codigo desarrollado y posiblemente implementado: [donde se encuentra el codigo](link donde esta el codigo)
-
+*Figura 1*. Certificado de completitud del curso nombre del curso
 <br></br>
 <br></br>
-
-<p align="center">
-<img src="Link de la imagen con logos de organizaciones">
-</p>
+<br></br>
